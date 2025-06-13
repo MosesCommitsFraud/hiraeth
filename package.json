@@ -4,6 +4,10 @@
   "description": "A dark theme with purple cause i like purple",
   "version": "0.1.1",
   "publisher": "mosescommitsfraud",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MosesCommitsFraud/hiraeth"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
