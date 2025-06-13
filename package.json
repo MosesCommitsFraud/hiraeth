@@ -1,0 +1,20 @@
+{
+  "name": "hiraeth-theme",
+  "displayName": "Hiraeth Theme",
+  "description": "A dark theme with purple and teal accents",
+  "version": "0.0.1",
+  "publisher": "mosescommitsfraud",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hiraeth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hiraeth-color-theme.json"
+      }
+    ]
+  }
+}
