@@ -2,7 +2,7 @@
   "name": "hiraeth",
   "displayName": "Hiraeth Theme",
   "description": "A dark theme with purple cause i like purple",
-  "version": "0.0.2",
+  "version": "0.1.1",
   "publisher": "mosescommitsfraud",
   "engines": {
     "vscode": "^1.74.0"
