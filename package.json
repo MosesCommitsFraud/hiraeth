@@ -3,6 +3,7 @@
   "displayName": "Hiraeth Theme",
   "description": "A dark theme with purple cause i like purple",
   "version": "0.1.1",
+  "icon": "icon.png",
   "publisher": "mosescommitsfraud",
   "repository": {
     "type": "git",
