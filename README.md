@@ -1,6 +1,6 @@
-# Hiraeth Theme
+# Hiraeth
 
-A dark VSCode theme with purple accents because I like purple.
+A dark Theme with purple accents because I like purple.
 
 ## License
 
